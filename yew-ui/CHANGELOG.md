@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.25](https://github.com/security-union/videocall-rs/compare/videocall-ui-v1.1.24...videocall-ui-v1.1.25) - 2025-08-13
+
+### Other
+
+- Add packets per sec, and matomo logs to debug system, handle mic errors more gracefully ([#385](https://github.com/security-union/videocall-rs/pull/385))
+
 ## [1.1.24](https://github.com/security-union/videocall-rs/compare/videocall-ui-v1.1.23...videocall-ui-v1.1.24) - 2025-08-10
 
 ### Other
